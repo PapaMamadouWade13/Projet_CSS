@@ -1,0 +1,111 @@
+body {
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+  margin-top: 20px;
+  margin-bottom: 50px;
+  margin-left: 25px;
+  margin-right: 40px;
+
+  height: 150px;
+  width: 90%;
+
+  font-family:Roboto;
+
+  border-radius: 3px;
+
+  color:white;
+
+  background-image: url("https://png.pngtree.com/background/20210709/original/pngtree-smoke-black-background-picture-image_322080.jpg");
+
+}
+
+nav{
+  display: inline;
+}
+
+a{
+  color:gold;
+}
+
+h1 {
+  background-color: red;
+  font-size: 40px;
+  text-align: center;
+
+}
+
+h2 {
+  background-color: aqua;
+  text-align: center;
+  color:black;
+}
+
+
+table,td,th {
+  border-collapse: collapse;
+  border-style: ridge;
+  border-spacing: 10px;
+}
+
+caption {
+  font-size: 30px;
+}
+
+th {
+  text-align: center;
+  text-decoration: dotted;
+}
+
+#g15 {
+  width: 50%;
+  height: 50%;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+#gmc {
+  width: 50%;
+  height: 50%;
+  padding-left: 250px;
+  padding-right: 250px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+}
+
+#nba {
+  width: 35%;
+  height: 400px;
+  padding-left: 350px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+
+}
+
+#wb {
+  width: 50%;
+  height: 50%;
+  padding-left: 300px;
+  padding-right: 300px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+}
+
+button:hover{
+  background-color: red;;
+}
+
+th{
+  color: red;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.age{
+  text-align: center;
+}
